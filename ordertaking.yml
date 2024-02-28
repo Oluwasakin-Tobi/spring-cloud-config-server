@@ -8,6 +8,6 @@ rabbitmq:
 
 product-packages:
   tvPackages: 90 Channels, 140 Channels
-  mobilePackages: Prepaid, Post-paid
+  mobilePackages: Prepaid, Post-paid, PostCard
   internetPackages: 250Mbps, 1Gbps
   telephonyPackages: Free On net Calls, Unlimited Calls
